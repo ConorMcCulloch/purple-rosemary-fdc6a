@@ -23,7 +23,6 @@ sections:
       - image: images/Untitled-1.png
         image_alt: Contentful logo
         image_align: center
-        title: AZ-900
         subtitle: Microsoft
         title_align: center
     grid_cols: four
