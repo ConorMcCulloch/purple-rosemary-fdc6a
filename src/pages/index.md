@@ -57,6 +57,7 @@ sections:
         align: left
         type: feature
         image: images/good-mustard.png
+        video_embed_html: ghg
     feature_padding_vert: medium
     align: center
     padding_top: medium
