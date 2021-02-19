@@ -18,7 +18,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image: images/Untitled-1.png
