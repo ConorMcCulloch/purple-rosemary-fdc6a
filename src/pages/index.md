@@ -23,7 +23,6 @@ sections:
       - image: images/Untitled-1.png
         image_alt: Contentful logo
         image_align: center
-        subtitle: AZ-900
         title_align: center
     grid_cols: four
     grid_gap_horiz: medium
