@@ -23,7 +23,7 @@ sections:
       - image: images/Untitled-1.png
         image_alt: Contentful logo
         image_align: center
-        title: Microsoft AZ-900
+        title: Azure Fundamentals AZ-900
         subtitle: Microsoft
         title_align: center
     grid_cols: four
