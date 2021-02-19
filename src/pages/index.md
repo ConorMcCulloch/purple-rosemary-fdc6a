@@ -21,7 +21,7 @@ sections:
     align: center
     grid_items:
       - image: images/Untitled-1.png
-        image_alt: Contentful logo
+        image_alt: Azure Fundamentals
         image_align: center
         title_align: center
         title: Azure Fundamentals
