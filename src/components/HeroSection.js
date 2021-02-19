@@ -50,7 +50,7 @@ export default class HeroSection extends React.Component {
                 				{_.get(section, 'video_embed_html', null) ? (
                 					htmlToReact(_.get(section, 'video_embed_html', null))
                 				) : 
-                					<img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
+                					<img src={withPrefix(_.get(section, '', null))} alt={_.get(section, 'image_alt', null)} className={classNames({'mx-auto': align_x === 'center', 'ml-auto': align_x === 'right'})} />
                 				}
                 			</div>
                 			)}
