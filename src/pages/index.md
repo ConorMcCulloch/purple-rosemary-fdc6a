@@ -2,13 +2,13 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: 'Hey,'
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions: []
-    image:
+    image: null
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
