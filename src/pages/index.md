@@ -30,9 +30,6 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: Sanity logo
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
