@@ -22,43 +22,6 @@ export default class Footer extends React.Component {
         return (
             <React.Fragment>
                 <footer className="site-footer">
-                	{(((has_logo || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_primary_nav', null)) || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_secondary_nav', null)) || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_tertiary_nav', null)) && (
-                	<div className="site-footer__nav py-5 py-md-6">
-                		<div className="container">
-                			<div className={classNames('grid', {'justify-md-center': has_logo === false})}>
-                				{has_logo && (
-                				<Link className="site-footer__logo cell-12 cell-md-5 my-4" to={withPrefix('/')}>
-                					<img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} />
-                				</Link>
-                				)}
-                				{(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_primary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_links', null)) && (
-                				<div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
-                					{_.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_title', null) && (
-                					<h2 className="h4 mb-3 mb-md-4">{_.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_title', null)}</h2>
-                					)}
-                					<FooterMenu {...this.props} footer_menu={_.get(this.props, 'pageContext.site.siteMetadata.footer.primary_nav_links', null)} />
-                				</div>
-                				)}
-                				{(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_secondary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.secondary_nav_links', null)) && (
-                				<div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
-                					{_.get(this.props, 'pageContext.site.siteMetadata.footer.secondary_nav_title', null) && (
-                					<h2 className="h4 mb-3 mb-md-4">{_.get(this.props, 'pageContext.site.siteMetadata.footer.secondary_nav_title', null)}</h2>
-                					)}
-                					<FooterMenu {...this.props} footer_menu={_.get(this.props, 'pageContext.site.siteMetadata.footer.secondary_nav_links', null)} />
-                				</div>
-                				)}
-                				{(_.get(this.props, 'pageContext.site.siteMetadata.footer.has_tertiary_nav', null) && _.get(this.props, 'pageContext.site.siteMetadata.footer.tertiary_nav_links', null)) && (
-                				<div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
-                					{_.get(this.props, 'pageContext.site.siteMetadata.footer.tertiary_nav_title', null) && (
-                					<h2 className="h4 mb-3 mb-md-4">{_.get(this.props, 'pageContext.site.siteMetadata.footer.tertiary_nav_title', null)}</h2>
-                					)}
-                					<FooterMenu {...this.props} footer_menu={_.get(this.props, 'pageContext.site.siteMetadata.footer.tertiary_nav_links', null)} />
-                				</div>
-                				)}
-                			</div>
-                		</div>
-                	</div>
-                	)}
                 	{(footer_content || footer_social) && (
                 	<div className="site-footer__info py-3 py-sm-4">
                 		<div className="container">
