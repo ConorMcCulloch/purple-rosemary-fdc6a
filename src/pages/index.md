@@ -34,8 +34,7 @@ sections:
     grid_gap_vert: medium
     background_image: null
     background_color: none
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
