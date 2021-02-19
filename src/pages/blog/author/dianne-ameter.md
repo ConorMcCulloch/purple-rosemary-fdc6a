@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Conor McCulloch
 sections:
   - type: hero_section
     title: Dianne Ameter
