@@ -2,7 +2,7 @@
 title: Conor McCulloch
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Conor McCulloch
     subtitle: The optional subtitle
     align: center
     padding_top: medium
