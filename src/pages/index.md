@@ -27,7 +27,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
-    background_image: images/noise.png
+    background_image: images/about-1.jpg
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
