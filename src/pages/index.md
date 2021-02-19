@@ -22,7 +22,7 @@ sections:
     grid_items:
       - image: images/Untitled-1.png
         image_alt: Azure Fundamentals
-        image_align: center
+        image_align: right
         title_align: center
         title: Azure Fundamentals
         image_position: top
