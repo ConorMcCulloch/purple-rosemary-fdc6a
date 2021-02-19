@@ -26,7 +26,7 @@ sections:
         title_align: center
         title: Azure Fundamentals
         image_position: top
-        image_width: sixty
+        image_width: twenty-five
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
