@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions: []
-    image: images/86b8262a4d044245740ca1211bb680d2.jpg
+    image: images/noise.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
