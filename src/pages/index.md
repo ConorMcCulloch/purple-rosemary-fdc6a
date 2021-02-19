@@ -28,7 +28,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_image: null
-    background_color: none
+    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
