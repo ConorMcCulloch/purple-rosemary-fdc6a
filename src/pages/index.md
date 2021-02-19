@@ -23,6 +23,7 @@ sections:
       - image: images/Untitled-1.png
         image_alt: Contentful logo
         image_align: center
+        title: 'Microsoft '
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
