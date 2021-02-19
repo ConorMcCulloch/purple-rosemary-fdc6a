@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Certifications
     align: center
     grid_items:
       - image: images/Untitled-1.png
