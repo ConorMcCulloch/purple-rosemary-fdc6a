@@ -25,6 +25,7 @@ sections:
         image_align: center
         title: Microsoft AZ-900
         subtitle: Microsoft AZ-900
+        title_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
