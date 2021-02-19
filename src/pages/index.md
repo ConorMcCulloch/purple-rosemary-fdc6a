@@ -24,18 +24,6 @@ sections:
       - image: images/Untitled-1.png
         image_alt: Contentful logo
         image_align: center
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Untitled-1 shadow.png
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
