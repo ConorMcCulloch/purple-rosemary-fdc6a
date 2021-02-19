@@ -25,6 +25,7 @@ sections:
         image_align: center
         title_align: center
         title: 'Microsoft Certified: Azure Fundamentals'
+        subtitle: 'Microsoft Certified: Azure Fundamentals'
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
