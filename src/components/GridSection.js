@@ -22,7 +22,7 @@ export default class GridSection extends React.Component {
         return (
             <section className={classNames('section', {'has-border': _.get(section, 'has_border', null), 'has-cover': _.get(section, 'background_image', null), 'bg-none': bg_color === 'none', 'bg-primary': bg_color === 'primary', 'bg-secondary': bg_color === 'secondary', 'pt-4': padding_top === 'small', 'pt-6': (padding_top === 'medium') || (padding_top === 'large'), 'pt-md-7': padding_top === 'large', 'pb-4': padding_bottom === 'small', 'pb-6': (padding_bottom === 'medium') || (padding_bottom === 'large'), 'pb-md-7': padding_bottom === 'large'})}>
             	{_.get(section, 'background_image', null) && (
-            	
+            	<div className="cover-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\'); opacity: ' + bg_img_opacity + '; background-size: ' + bg_img_size + '; background-repeat: ' + bg_img_repeat + '; background-position: ' + bg_img_position)}/>
             	)}
             	{(_.get(section, 'title', null) || _.get(section, 'subtitle', null)) && (
             	<div className={classNames('container', 'container--medium', {'mb-5': (grid_gap_y === 'small') || (grid_gap_y === 'medium'), 'mb-4': grid_gap_y === 'large', 'text-center': align_x === 'center', 'text-right': align_x === 'right'})}>
