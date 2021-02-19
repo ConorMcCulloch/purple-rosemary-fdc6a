@@ -34,27 +34,6 @@ sections:
     grid_gap_vert: medium
     background_image: null
     background_color: none
-  - features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: images/brandon-guidelines.png
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: blog_feed_section
     title: What's New
     actions:
