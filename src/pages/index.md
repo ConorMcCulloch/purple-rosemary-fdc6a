@@ -27,7 +27,7 @@ sections:
         title: Azure Fundamentals
         image_position: top
         image_width: twenty-five
-        image_has_padding: true
+        image_has_padding: false
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
