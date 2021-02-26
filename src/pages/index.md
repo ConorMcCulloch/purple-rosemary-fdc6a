@@ -7,7 +7,7 @@ sections:
     media_position: right
     media_width: fourty
     align: center
-    padding_top: small
+    padding_top: none
     padding_bottom: none
     background_color: primary
     has_border: false
