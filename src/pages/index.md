@@ -90,7 +90,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Cloud McCulloch
     - name: 'twitter:description'
       value: >+
         My name is Conor McCulloch, and this website is a journal of my journey
