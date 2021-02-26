@@ -86,7 +86,7 @@ seo:
 
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/Screenshot 2021-02-26 173357.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
