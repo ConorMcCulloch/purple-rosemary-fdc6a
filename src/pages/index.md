@@ -12,7 +12,6 @@ sections:
     background_color: primary
     has_border: false
     title: Cloud McCulloch
-    subtitle: A place for
   - type: grid_section
     title: Certifications
     align: center
