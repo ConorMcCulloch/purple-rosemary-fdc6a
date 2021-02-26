@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: About Me
-        url: /
+        url: /about
         style: secondary
         has_icon: false
         icon: arrow-left
