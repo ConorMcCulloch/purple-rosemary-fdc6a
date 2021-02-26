@@ -3,7 +3,6 @@ title: Azure
 sections:
   - type: hero_section
     title: Azure
-    subtitle: The optional subtitle
     align: center
     padding_top: medium
     padding_bottom: none
