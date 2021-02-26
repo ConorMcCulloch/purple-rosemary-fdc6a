@@ -1,5 +1,5 @@
 ---
-title: Setting Up This Site
+title: Setting Up a Static Website on Azure
 subtitle: My
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
