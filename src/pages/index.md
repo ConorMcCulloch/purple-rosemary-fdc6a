@@ -41,7 +41,7 @@ sections:
         subtitle: Working On!
     grid_cols: four
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: small
     background_image: null
     background_color: none
     enable_cards: false
