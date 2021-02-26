@@ -11,7 +11,7 @@ sections:
     padding_bottom: none
     background_color: primary
     has_border: false
-    title: Welcome
+    title: Welcome to Cloud McCulloch
     image: images/Profile Picture.png
   - type: grid_section
     title: Certifications
