@@ -75,7 +75,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Cloud McCulloch
       keyName: property
     - name: 'og:description'
       value: >+
