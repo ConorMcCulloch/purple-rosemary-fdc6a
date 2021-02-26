@@ -30,7 +30,7 @@ sections:
     title: Certifications
     align: center
     grid_items:
-      - image: images/Untitled-1.png
+      - image: images/Cert 1.png
         image_alt: Azure Fundamentals
         image_align: center
         title_align: center
