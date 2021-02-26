@@ -2,8 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
-      #####
     actions: []
     image_alt: Hero section placeholder image
     media_position: right
