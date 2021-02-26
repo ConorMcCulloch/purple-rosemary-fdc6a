@@ -15,6 +15,7 @@ sections:
     padding_bottom: small
     background_color: primary
     has_border: false
+    title: 'Welcome to '
   - type: grid_section
     title: Certifications
     align: center
