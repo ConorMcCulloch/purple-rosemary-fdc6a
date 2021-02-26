@@ -43,7 +43,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_image: null
-    background_color: primary
+    background_color: secondary
     enable_cards: false
   - type: blog_feed_section
     title: What's New
