@@ -28,7 +28,7 @@ sections:
     image: images/Profile Picture 2.png
   - type: grid_section
     title: Certifications
-    align: right
+    align: center
     grid_items:
       - image: images/Cert 1.png
         image_alt: Azure Fundamentals
