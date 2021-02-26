@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: About Me
-        url: lorem-ipsum
+        url: About
         style: secondary
         has_icon: false
         icon: arrow-left
