@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in Azure
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: This is the Azure archive page
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
