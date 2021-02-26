@@ -1,5 +1,5 @@
 ---
-title: General
+title: AZure
 sections:
   - type: hero_section
     title: Azure
