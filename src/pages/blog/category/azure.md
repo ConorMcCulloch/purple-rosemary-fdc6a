@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Posts in General
+  title: Posts in AZure
   description: This is the author archive page
   extra:
     - name: 'og:type'
