@@ -23,11 +23,8 @@ sections:
     title: Cloud McCulloch
     image: images/Profile Picture.png
     subtitle: Welcome to my little corner of the internet
-    content: >
-      > My name is Conor McCulloch, and this website is a journal of my journey
-      into IT. Here you'll find posts about different projects, and other things
-      I'm working on. If you'd like to know a little more about me click the
-      button below!
+    content: |
+      >
   - type: grid_section
     title: Certifications
     align: center
