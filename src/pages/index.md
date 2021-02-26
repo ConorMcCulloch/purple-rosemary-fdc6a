@@ -13,6 +13,7 @@ sections:
     has_border: false
     title: Cloud McCulloch
     image: images/Profile Picture.png
+    subtitle: Welcome to my little corner of the internet
   - type: grid_section
     title: Certifications
     align: center
