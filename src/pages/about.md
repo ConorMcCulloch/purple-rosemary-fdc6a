@@ -36,7 +36,7 @@ sections:
         media_width: fifty
 seo:
   title: About
-  description: This is the about us page
+  description: This is the about me page
   extra:
     - name: 'og:type'
       value: website
