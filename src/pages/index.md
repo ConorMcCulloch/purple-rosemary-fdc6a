@@ -21,7 +21,6 @@ sections:
     background_color: primary
     has_border: false
     title: Cloud McCulloch
-    image: images/Profile Picture 2.png
     subtitle: Welcome to my little corner of the internet
     content: >
       My name is Conor McCulloch, and this website is a journal of my journey
