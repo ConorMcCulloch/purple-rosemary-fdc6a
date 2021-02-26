@@ -6,7 +6,6 @@ sections:
       ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions: []
-    image: images/Profile Picture.png
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fourty
