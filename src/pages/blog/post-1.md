@@ -13,7 +13,7 @@ image_alt: Post 1 placeholder image
 image_position: right
 seo:
   title: Setting Up a Static Website on Azure
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: The process of researching & setting up a static website on Azure
   extra:
     - name: 'og:type'
       value: article
