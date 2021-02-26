@@ -10,10 +10,11 @@ sections:
   - type: features_section
     features:
       - title: My Life So Far
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I grew up in a small town on the west coast of Scotland, growing up I
+          always had an interest in learning. When I graduated secondary school
+          I went on to study at the City of Glasgow College, attaining a HND in
+          Product Design.
         image: images/About Me 1.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
