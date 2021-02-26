@@ -34,7 +34,6 @@ sections:
         image_alt: Azure Fundamentals
         image_align: center
         title_align: center
-        title: Azure Fundamentals
         image_position: top
         image_width: twenty-five
         image_has_padding: false
