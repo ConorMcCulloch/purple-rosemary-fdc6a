@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:title'
       value: Setting Up a Static Website on Azure
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: The process of researching & setting up a static website on Azure
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
