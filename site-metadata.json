@@ -5,7 +5,6 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "logo": "images/Channel Logo.png",
         "logo_alt": "CM",
         "has_primary_nav": true,
         "primary_nav_links": [
