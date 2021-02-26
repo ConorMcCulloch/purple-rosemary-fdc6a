@@ -2,8 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >
+      # Conor McCulloch
+
+
+      ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions: []
     image: images/Profile Picture.png
