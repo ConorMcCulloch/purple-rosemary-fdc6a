@@ -10,7 +10,7 @@ sections:
     padding_top: small
     padding_bottom: none
     background_color: primary
-    has_border: true
+    has_border: false
     title: Cloud McCulloch
     subtitle: A blog of everything I get up to
   - type: grid_section
