@@ -27,7 +27,7 @@ sections:
         media_position: left
         media_width: fifty
         title: Interests
-      - title: Section Title Three
+      - title: My Goals
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
