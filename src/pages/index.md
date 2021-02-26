@@ -78,7 +78,10 @@ seo:
       value: Stackbit DIY Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: >+
+        My name is Conor McCulloch, and this website is a journal of my journey
+        into the world of IT.
+
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
