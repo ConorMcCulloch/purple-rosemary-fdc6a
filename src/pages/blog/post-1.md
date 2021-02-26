@@ -22,7 +22,7 @@ seo:
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: The process of researching & setting up a static website on Azure
       keyName: property
     - name: 'og:image'
       value: images/classic/post-1.png
