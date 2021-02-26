@@ -25,7 +25,7 @@ sections:
     subtitle: Welcome to my little corner of the internet
     content: >
       My name is Conor McCulloch, and this website is a journal of my journey
-      into IT.
+      into the world of IT.
   - type: grid_section
     title: Certifications
     align: center
