@@ -31,7 +31,7 @@ seo:
       value: Posts in Azure
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: This is the Azure archive page
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
