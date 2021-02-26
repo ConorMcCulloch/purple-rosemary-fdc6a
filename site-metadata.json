@@ -38,7 +38,8 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features",
-        "title": "Cloud McCulloch"
+        "title": "Cloud McCulloch",
+        "logo": "images/Channel Logo.png"
     },
     "footer": {
         "logo": "images/classic/logo.svg",
