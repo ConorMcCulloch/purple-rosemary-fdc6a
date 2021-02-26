@@ -9,7 +9,7 @@ sections:
     padding_bottom: none
   - type: features_section
     features:
-      - title: My Life So Far
+      - title: A Little About Me
         content: >
           I grew up in a small town on the west coast of Scotland, growing up I
           always had an interest in learning. When I graduated secondary school
