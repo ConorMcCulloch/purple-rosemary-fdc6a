@@ -99,7 +99,7 @@ seo:
         into the world of IT.
 
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/Screenshot%202021-02-26%20173357.png
       relativeUrl: true
 template: advanced
 ---
