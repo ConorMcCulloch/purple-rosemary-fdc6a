@@ -44,6 +44,7 @@ sections:
     grid_gap_vert: medium
     background_image: null
     background_color: none
+    enable_cards: true
   - type: blog_feed_section
     title: What's New
     actions:
