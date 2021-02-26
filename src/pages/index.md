@@ -25,6 +25,7 @@ sections:
     content: >
       My name is Conor McCulloch, and this website is a journal of my journey
       into the world of IT.
+    image: images/Profile Picture 2.png
   - type: grid_section
     title: Certifications
     align: center
