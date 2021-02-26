@@ -4,7 +4,6 @@ subtitle: The process of researching & setting up a static website on Azure
 date: '2020-04-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
-  - src/data/categories/general.yaml
   - src/data/categories/category-7vcuuz40z.json
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
