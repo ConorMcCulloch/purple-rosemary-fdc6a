@@ -92,7 +92,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit DIY Theme
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: >+
+        My name is Conor McCulloch, and this website is a journal of my journey
+        into the world of IT.
+
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
