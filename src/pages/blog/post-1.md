@@ -1,7 +1,7 @@
 ---
 title: Setting Up a Static Website on Azure
 subtitle: The process of researching & setting up a static website on Azure
-date: '2020-03-16'
+date: '2020-02-16'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/category-7vcuuz40z.json
