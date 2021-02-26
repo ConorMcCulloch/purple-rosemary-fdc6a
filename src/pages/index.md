@@ -67,7 +67,7 @@ sections:
     background_color: secondary
 seo:
   title: Cloud McCulloch
-  description: The preview of the DIY theme
+  description: Conor M
   extra:
     - name: 'og:type'
       value: website
