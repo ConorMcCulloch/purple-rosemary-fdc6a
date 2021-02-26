@@ -45,7 +45,7 @@ sections:
     background_image: null
     background_color: none
     enable_cards: false
-    padding_bottom: large
+    padding_bottom: none
   - type: blog_feed_section
     title: What's New
     actions:
