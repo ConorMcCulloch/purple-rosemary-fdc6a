@@ -5,6 +5,7 @@ sections:
     title: About
     align: center
     background_color: secondary
+    padding_top: medium
   - type: features_section
     features:
       - title: Section Title One
