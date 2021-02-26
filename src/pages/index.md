@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: About
+      - label: About Me
         url: lorem-ipsum
         style: secondary
         has_icon: false
