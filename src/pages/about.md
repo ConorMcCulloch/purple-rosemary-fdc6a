@@ -27,6 +27,7 @@ sections:
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
+        title: Intrests
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
