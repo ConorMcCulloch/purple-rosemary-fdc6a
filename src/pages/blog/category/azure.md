@@ -22,7 +22,7 @@ sections:
     has_border: true
 seo:
   title: Posts in AZure
-  description: This is the author archive page
+  description: This is the Azure archive page
   extra:
     - name: 'og:type'
       value: website
