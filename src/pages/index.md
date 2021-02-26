@@ -13,7 +13,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: secondary
+    background_color: primary
     has_border: false
     title: Cloud McCulloch
     subtitle: 'A blog of everything I get up to '
