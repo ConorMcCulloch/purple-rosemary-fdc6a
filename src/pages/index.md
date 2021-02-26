@@ -10,7 +10,7 @@ sections:
     actions: []
     image: images/Profile Picture.png
     image_alt: Hero section placeholder image
-    media_position: top
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: large
