@@ -39,7 +39,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         subtitle: Working On!
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
     background_image: null
