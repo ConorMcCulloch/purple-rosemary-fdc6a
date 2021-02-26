@@ -12,6 +12,7 @@ sections:
     background_color: primary
     has_border: false
     title: Cloud McCulloch
+    image: images/Profile Picture.png
   - type: grid_section
     title: Certifications
     align: center
