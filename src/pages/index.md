@@ -44,7 +44,6 @@ sections:
     grid_gap_vert: medium
     background_image: null
     background_color: none
-    subtitle: Coming soon
   - type: blog_feed_section
     title: What's New
     actions:
