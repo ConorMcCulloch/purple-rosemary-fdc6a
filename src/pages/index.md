@@ -67,7 +67,9 @@ sections:
     background_color: secondary
 seo:
   title: Cloud McCulloch
-  description: Conor M
+  description: >
+    My name is Conor McCulloch, and this website is a journal of my journey into
+    the world of IT.
   extra:
     - name: 'og:type'
       value: website
