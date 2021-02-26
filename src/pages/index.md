@@ -2,9 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    content: >
-      ##### Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      #####
     actions: []
     image_alt: Hero section placeholder image
     media_position: right
