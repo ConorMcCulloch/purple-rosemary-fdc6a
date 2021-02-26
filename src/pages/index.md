@@ -37,7 +37,6 @@ sections:
         image_position: top
         image_width: twenty-five
         image_has_padding: false
-        subtitle: Working On!
         actions: []
     grid_cols: three
     grid_gap_horiz: medium
