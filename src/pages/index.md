@@ -28,11 +28,7 @@ sections:
       into IT.
 
 
-      Here you'll find posts about different projects, and other things I'm
-      working on.
-
-
-      If you'd like to know a little more about me click the button below! 
+      If you'd like to know a little more about me click the button below!
   - type: grid_section
     title: Certifications
     align: center
