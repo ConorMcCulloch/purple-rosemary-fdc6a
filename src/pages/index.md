@@ -39,6 +39,16 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         subtitle: Working On!
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
