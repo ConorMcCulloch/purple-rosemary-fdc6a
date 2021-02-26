@@ -16,7 +16,7 @@ sections:
     background_color: primary
     has_border: false
     title: Cloud McCulloch
-    subtitle: 'A Blog '
+    subtitle: 'A Blog of '
   - type: grid_section
     title: Certifications
     align: center
