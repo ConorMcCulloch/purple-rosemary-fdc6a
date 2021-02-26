@@ -8,7 +8,7 @@ sections:
     media_width: fourty
     align: center
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
     background_color: primary
     has_border: false
     title: Cloud McCulloch
