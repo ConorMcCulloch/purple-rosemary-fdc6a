@@ -14,7 +14,7 @@ sections:
     media_width: fourty
     align: left
     padding_top: small
-    padding_bottom: large
+    padding_bottom: small
     background_color: primary
   - type: grid_section
     title: Certifications
