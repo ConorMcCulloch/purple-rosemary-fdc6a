@@ -11,10 +11,10 @@ sections:
     features:
       - title: A Little About Me
         content: >
-          I grew up in a small town on the west coast of Scotland, growing up I
-          always had an interest in learning. When I graduated secondary school
-          I went on to study at the City of Glasgow College, attaining a HND in
-          Product Design.
+          I grew up in a small town on the west coast of Scotland. I studied at
+          the City of Glasgow College, attaining an HND in Product Design. Some
+          of my interests include: Graphic Design, Working Out, D\&D, and
+          Reading among others.
         image: images/About Me 1.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
