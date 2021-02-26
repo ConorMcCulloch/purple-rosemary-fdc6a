@@ -16,7 +16,7 @@ sections:
     background_color: primary
     has_border: false
     title: Cloud McCulloch
-    subtitle: A blog of everything I get
+    subtitle: 'A blog of everything I get up to '
   - type: grid_section
     title: Certifications
     align: center
