@@ -39,7 +39,7 @@ sections:
         image_has_padding: false
         actions:
           - label: 'Achieved: 04/03/2021'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
