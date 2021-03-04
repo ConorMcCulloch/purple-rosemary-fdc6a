@@ -49,9 +49,8 @@ sections:
             url: >-
               https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url
         actions_align: center
-        content: >
-          [Achieved:
-          04/03/2021](https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url)
+        content: |+
+
         content_align: center
     grid_cols: three
     grid_gap_horiz: medium
