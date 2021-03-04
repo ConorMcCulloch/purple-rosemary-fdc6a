@@ -46,6 +46,8 @@ sections:
             new_window: true
             no_follow: false
             type: action
+            url: >-
+              https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url
         actions_align: center
         content: >
           [Achieved:
