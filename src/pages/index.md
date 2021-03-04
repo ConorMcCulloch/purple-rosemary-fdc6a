@@ -30,7 +30,7 @@ sections:
     title: Certifications
     align: center
     grid_items:
-      - image: images/Cert 1.png (https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url)
+      - image: images/Cert 1.png
         image_alt: Azure Fundamentals
         image_align: center
         title_align: center
