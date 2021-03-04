@@ -38,8 +38,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         actions:
-          - label: Achievbed
-            url: lorem-ipsum
+          - url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left
