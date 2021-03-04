@@ -38,7 +38,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         actions:
-          - label: lorem-ipsum
+          - label: 'Achieved: 04/03/2021'
             style: primary
             has_icon: false
             icon: arrow-left
