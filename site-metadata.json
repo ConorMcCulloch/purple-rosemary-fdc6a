@@ -20,7 +20,7 @@
             },
             {
                 "label": "PDF",
-                "url": "/images/",
+                "url": "/images",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
