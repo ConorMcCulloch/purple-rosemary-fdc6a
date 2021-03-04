@@ -47,7 +47,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: 04/03/2021
+            label: Verified
         actions_align: center
     grid_cols: three
     grid_gap_horiz: medium
