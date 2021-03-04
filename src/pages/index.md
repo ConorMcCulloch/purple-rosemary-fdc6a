@@ -49,6 +49,8 @@ sections:
             type: action
             label: Certified
         actions_align: center
+        content: |
+          Certified
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
