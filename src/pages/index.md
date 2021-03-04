@@ -38,7 +38,7 @@ sections:
         image_width: twenty-five
         image_has_padding: false
         actions:
-          - label: lorem-ipsum
+          - label: Link
             url: >-
               https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url
             style: primary
