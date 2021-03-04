@@ -49,6 +49,8 @@ sections:
             type: action
             label: Certified
         actions_align: center
+        subtitle: >-
+          https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
