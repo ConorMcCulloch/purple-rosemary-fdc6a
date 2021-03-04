@@ -37,17 +37,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_has_padding: false
-        actions:
-          - url: >-
-              https://www.youracclaim.com/badges/c5221305-3f47-41f0-ac77-9a9a384e2f21/public_url
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-            label: 'Achieved: 03/2021'
+        actions: []
         actions_align: center
     grid_cols: three
     grid_gap_horiz: medium
