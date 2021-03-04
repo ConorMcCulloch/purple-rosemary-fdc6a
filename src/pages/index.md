@@ -27,7 +27,7 @@ sections:
       into the world of IT.
     image: images/Profile Picture 2.png
   - type: grid_section
-    title: Certifications john
+    title: Certifications
     align: center
     grid_items:
       - image: images/Cert 1.png
