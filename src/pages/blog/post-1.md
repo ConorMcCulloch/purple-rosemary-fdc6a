@@ -7,7 +7,6 @@ categories:
   - src/data/categories/category-7vcuuz40z.json
 excerpt: The process of researching & setting up a static website on Azure
 thumb_image: images/classic/post-2.png
-thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-2.png
 image_alt: Post 1 placeholder image
 image_position: right
