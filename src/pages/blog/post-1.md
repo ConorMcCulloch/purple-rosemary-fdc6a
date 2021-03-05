@@ -45,39 +45,33 @@ When I first decided I wanted a website to document my progress, my first though
 
 ![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/App%20Service.png?raw=true)![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/SQL.png?raw=true)
 
-This is when I learned about static sites, but what is a static site exactly well;  
+This is when I learned about static sites, but what is a static site exactly well; 
 
-> “A static site is a page that is delivered to the user's web browser exactly as stored” 
+> “A static site is a page that is delivered to the user's web browser exactly as stored”
 
 what this means is that everyone who visits the site see’s the same thing, this is in contrast to a dynamic site which can change based on various conditions from the visitor. For example a social media website like twitter, is a dynamic site that changes what it displays depending on the account that's logged in.
 
 There are many advantages to a static site, such as improved security, performance, but most important to me is that they are incredibly cheap to run. This is due to the fact that no real compute power is needed, so I no longer needed to pay for an App Service Plan or Database. Although there are also drawbacks to static sites, such as the inability to quickly change the design and layout of the site. Unlike a dynamic site editor where a new “theme” can be put over the top of the pre-existing content, static sites bake in those design elements with the content itself.
 
-As I looked into static sites I found that there were **many **different platforms and frameworks used to build them, all offering their own advantages and disadvantages. Static sites can be built and edited entirely through a command console, but I was interested in using a content management system (CMS) to build and maintain mine, as it would give me a suite of tools that I wouldn't have otherwise. I also wanted something that hosted it’s files on GitHub, as I planned to use Azure’s Static Web Apps service, (which I’ll talk more about later).
+As I looked into static sites I found that there were \*\*many \*\*different platforms and frameworks used to build them, all offering their own advantages and disadvantages. Static sites can be built and edited entirely through a command console, but I was interested in using a content management system (CMS) to build and maintain mine, as it would give me a suite of tools that I wouldn't have otherwise. I also wanted something that hosted it’s files on GitHub, as I planned to use Azure’s Static Web Apps service, (which I’ll talk more about later).
 
 I spent a week testing different platforms to find the right one for me, these are my personal findings;
 
 #### **Forestry**
 
-****![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Forestry.png?raw=true)
-
 Forestry was the first platform I tried, and I was initially very impressed by the flashy templates they offered, but unfortunately as soon as I tried to make the changes to the templates, I ran into some problems. Changing site elements was awkward and unclear, and varied wildly from template to template, with some seemingly impossible to edit no matter how much I changed. One of the biggest reasons why everything felt so awkward within Forestry is because you are unable to directly edit the web pages, having to make your edits to the ever changing file structure format, publishing it and then seeing the changes live. Forestry does have a site preview engine but I found it slow and unresponsive.
 
 #### **Ghost**
-
-****![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Ghost.png?raw=true)
 
 I only tried out Ghost for a brief moment as it’s a paid service with a 14-day free trial. The sites looked nice but it was more of an all-inclusive service, offering hosting and support which I didn't need.
 
 #### **Siteleaf & Publii**
 
-****![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Siteleaf.png?raw=true)![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Pubii.png?raw=true)
-
 Both of these platforms are fairly similar to one and another with the services they offer, and the style of in-direct site editing they allow. I think either could have been a great choice for me, and from the small amount of time I put into them, their management tools seem more comprehensive and unified than that of Forestry, but they were just beat out by the next, and final platform I tried.
 
 #### **Stackbit**
 
-****![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/stackbit-logo.png?raw=true)
+![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/stackbit-logo.png?raw=true)
 
 From the moment I started using Stackbit I knew this was the platform for me, with the biggest factor being the ability to directly edit pages and see them change in real time, this made building and editing the site an absolute breeze. Building pages using premade sections is quick and easy, while still allowing for enough customisation, so that no two websites have to look alike. Another great feature of Stackbit is that it automatically creates a preview branch of your site, where you make all of your edits, before being pushed to the master branch.  It also has great metadata tagging and a feature that allows you to pull up the code of specific elements, which can help you learn more about what your website actually is built on.
 
