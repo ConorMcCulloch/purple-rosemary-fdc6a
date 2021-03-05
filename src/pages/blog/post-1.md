@@ -6,7 +6,7 @@ author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/category-7vcuuz40z.json
 excerpt: Coming Soon!
-thumb_image: images/classic/post-1.png
+thumb_image: images/classic/post-2.png
 thumb_image_alt: Post 1 placeholder image
 image: images/classic/post-2.png
 image_alt: Post 1 placeholder image
