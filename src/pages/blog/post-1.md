@@ -43,7 +43,7 @@ So you want to build a static website on Azure? Well in this post I’m going to
 
 When I first decided I wanted a website to document my progress, my first thought was to build a WordPress site and host it in Azure. Luckily there's a WordPress service right on the Azure Marketplace, I thought that it would be a simple and easy process to set up, and it was, at first. WordPress is a powerful platform and can create some fantastic looking sites, but on Azure it costs over £30 a month to host it. This is due to the fact that you need to host not just your App Service Plan but a SQL Database as well. At those rates I’d be better off going to an all inclusive platform such as Squarespace, but I was content to build my site on Azure, to learn the tools and services it offered, and so I looked for another option.
 
-![](https://snipcart.com/media/204528/stackbit-logo.png)
+![](https://raw.githubusercontent.com/ConorMcCulloch/purple-rosemary-fdc6a/master/static/images/App%20Service.png)
 
 This is when I learned about static sites, but what is a static site exactly well;  “A static site is a page that is delivered to the user's web browser exactly as stored”, what this means is that everyone who visits the site see’s the same thing, this is in contrast to a dynamic site which can change based on various conditions from the visitor. For example a social media website like twitter, is a dynamic site that changes what it displays depending on the account that's logged in.
 
