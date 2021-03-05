@@ -8,7 +8,7 @@ categories:
 excerpt: Coming Soon!
 thumb_image: images/classic/post-1.png
 thumb_image_alt: Post 1 placeholder image
-image: images/App Service.png
+image: images/classic/post-2.png
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
