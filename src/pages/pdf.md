@@ -8,9 +8,4 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+\<iframe src="https://docs.google.com/document/d/e/2PACX-1vSrc3dnPi8ULvcA_zd0Np6npjViWBbwMLyOTwpNWs50-3rt65x7nLySy5gUesHyAKQnKRtdp6jjI9id/pub?embedded=true">\</iframe>
