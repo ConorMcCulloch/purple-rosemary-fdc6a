@@ -8,7 +8,7 @@ categories:
 excerpt: The process of researching & setting up a static website on Azure
 thumb_image: images/classic/post-2.png
 image: images/classic/post-2.png
-image_position: right
+image_position: left
 seo:
   title: Setting Up a Static Website on Azure
   description: The process of researching & setting up a static website on Azure
