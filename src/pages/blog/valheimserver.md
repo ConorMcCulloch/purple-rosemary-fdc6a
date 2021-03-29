@@ -1,8 +1,10 @@
 ---
 title: 'Project: Setting up a Valheim Server on Linux'
-date: '2021-03-05'
+date: '2021-03-29'
 categories:
   - src/data/categories/category-7vcuuz40z.json
+  - src/data/categories/category-fngg8m6d9.json
+  - src/data/categories/category-t3lc9bhef.json
 tags: []
 excerpt: The process of researching & setting up a static website on Azure
 thumb_image_alt: lorem-ipsum
@@ -36,7 +38,7 @@ seo:
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
-thumb_image: images/classic/post-2.png
+thumb_image: images/valheim thumb.png
 image: images/valheim thumb.png
 subtitle: >-
   Learning to work with Linux and setting up a Valheim server, all hosted on
