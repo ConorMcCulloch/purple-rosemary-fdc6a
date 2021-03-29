@@ -46,11 +46,17 @@ For my first project I wanted to learn more about Virtual Machines and running s
 
 First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
 
-        ssh-keygen -m PEM -t rsa -b 4096
+```
+    ssh-keygen -m PEM -t rsa -b 4096
+
+```
 
 I then accessed the public key, via a cat view command
 
-        cat ~/.ssh/id_rsa.pub
+```
+    cat ~/.ssh/id_rsa.pub
+
+```
 
 Then I it copied, to add during the creation of the VM.
 
@@ -83,24 +89,39 @@ I then signed into that new user and downloaded the server manager, I went with 
 
 Once this was done I used it to install the Valheim server components
 
-        ./vhserver install
+```
+    ./vhserver install
+
+```
 
 After the install I then had to configure the server before running it, this meant navigating to the config files
 
-       cd /home/vhserver/lgsm/config-lgsm/vhserver
+```
+   cd /home/vhserver/lgsm/config-lgsm/vhserver
+
+```
 
 I then removed the common.cfg file
 
-        rm common.cfg
+```
+    rm common.cfg
+
+```
 
 and replaced it with a copy of the default.cfg
 
-        cp \_default.cfg common.cfg
+```
+    cp \_default.cfg common.cfg
+
+```
 
 ![](/images/edit%20config%201.png)
 Next I accessed the newly created common.cfg with the vim command
 
-       vim common.cfg
+```
+   vim common.cfg
+
+```
 
 and proceeded to edit the servers name and add a password for better security
 
