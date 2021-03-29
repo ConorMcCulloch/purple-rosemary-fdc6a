@@ -5,7 +5,6 @@ date: '2021-03-05'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/category-7vcuuz40z.json
-  - src/data/categories/category-bz99v7s0y.json
 excerpt: The process of researching & setting up a static website on Azure
 thumb_image: images/classic/post-2.png
 image: images/classic/post-2.png
