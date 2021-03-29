@@ -54,7 +54,7 @@ subtitle: >-
 
 Welcome to my first project, I planning on doing a number of various different little hands on IT projects, to help me build a greater understanding of IT beyond my certifications. For my first project I wanted to learn more about Virtual Machines and running servers on them in Azure. To do this I choose to set-up a Valheim server running on a Linux VM, as I have just gotten into the game and felt that having a dedicated server would be a great benefit to me and my friends.
 
-First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
+So the very first I needed to do was set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell in Azure and running the following command
 
 ```
     ssh-keygen -m PEM -t rsa -b 4096
@@ -68,7 +68,7 @@ I then accessed the public key, via a cat view command
 
 ```
 
-Then I it copied, to add during the creation of the VM.
+Then I copied the result, which I would add later, during the creation of the VM.
 
 I then created a virtual machine through the Azure portal, I chose a Standard B2s (2 vcpus, 4 GiB memory), as this is the recommended size for a Valheim server. I didn't create any additional discs as the storage that comes with the VM is more than enough to host the files needed.
 
