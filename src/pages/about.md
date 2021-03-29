@@ -16,6 +16,11 @@ sections:
         type: feature
         image: images/About Me 1.jpg
         title: A Little About Me
+        content: >
+          I grew up in a small town on the west coast of Scotland. I studied at
+          the City of Glasgow College, attaining an HND in Product Design. Some
+          of my interests include: Graphic Design, Working Out, D\&D, and
+          Reading among others.
     feature_padding_vert: medium
     align: center
     padding_top: medium
