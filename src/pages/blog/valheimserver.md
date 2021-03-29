@@ -76,10 +76,10 @@ Once that was complete I created a new user for the server, with a simpler name 
 
 ```
 
-*               wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver*
+                wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
 
-**![](/images/installed%20linuxgsm.png)
+![](/images/installed%20linuxgsm.png)
 
 Once this was done I used it to install the Valheim server components
 
-*./vhserver install*
+*                  ./vhserver install*
