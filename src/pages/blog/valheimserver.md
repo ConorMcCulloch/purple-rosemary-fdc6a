@@ -92,6 +92,7 @@ Once this was done I used it to install the Valheim server components
 ```
     ./vhserver install
 
+
 ```
 
 After the install I then had to configure the server before running it, this meant navigating to the config files
@@ -123,7 +124,7 @@ Next I accessed the newly created common.cfg with the vim command
 
 ```
 
-and proceeded to edit the servers name and add a password for better security
+and proceeded to edit the servers name and add a password for better security.
 
 ![](/images/edit%20config%202.png)
 
@@ -133,7 +134,7 @@ I saved my changes and navigated back to the root and then booted up the server
 
 ![](/images/VH%20server%20start.png)
 
-I then ran a quick check to see if the server was up and running
+I then ran a quick check to see if the server was up and running.
 
     ./vhserver details
 
