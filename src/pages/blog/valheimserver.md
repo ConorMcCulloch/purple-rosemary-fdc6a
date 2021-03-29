@@ -50,7 +50,7 @@ subtitle: >-
   Learning to work with Linux and setting up a Valheim server, all hosted on
   Azure 
 ---
-*Editors Note: The pictures used are from a test run, so the IP address isn't hidden, as this build has been decommissioned.*
+*Editors Note: The pictures used are from a test run, that's why I felt comfortable leaving the IP address in the images, as this build has been decommissioned.*
 
 Welcome to my first project, I planning on doing a number of various different little hands on IT projects, to help me build a greater understanding of IT beyond my certifications. For my first project I wanted to learn more about Virtual Machines and running servers on them in Azure. To do this I choose to set-up a Valheim server running on a Linux VM, as I have just gotten into the game and felt that having a dedicated server would be a great benefit to me and my friends.
 
