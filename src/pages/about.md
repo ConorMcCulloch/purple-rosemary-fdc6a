@@ -8,7 +8,6 @@ sections:
     padding_top: none
     padding_bottom: none
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
