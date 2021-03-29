@@ -144,15 +144,13 @@ I saved my changes and navigated back to the root and then booted up the server
 
     ./vhserver start
 
-
 ![](/images/VH%20server%20start.png)
 
 I then ran a quick check to see if the server was up and running.
 
     ./vhserver details
 
-
-When I first tested this I was confused because I thought that my server was stuck on start-up as all of the documentation that I had seen had shown a "ONLINE" in the status field. I initial couldn't find anything until I went searching on the official LinuxGSM Discord where I saw another user express the same issue, only to find that they recently changed the "ONLINE" status to simply read "STARTED".
+When I first tested this I was confused because I thought that my server was stuck on start-up as all of the documentation that I had seen had shown a "ONLINE" in the status field when the server was live. I initial couldn't find anything until I went searching on the official LinuxGSM Discord where I saw another user express the same issue, only to find that they recently changed the "ONLINE" status to simply read "STARTED" when the server is live.
 
 ![](/images/VH%20server%20stats.png)
 
@@ -165,7 +163,7 @@ This is as simple as adding a new allow access inbound rule to the ports between
 After this I navigated to the IP settings for my VM and set the IP to Static, this means that the VM IP will stay the same between shutdowns. This is important for me as this is the way I’d be accessing the server.
 
 ![](/images/IP%20static.png)
-With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. 
+With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted.
 
 I feel like I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files. All of which are important first steps in building a greater understanding of Linux as a whole. Right now my plan is try and keep myself busy with various little IT centric projects, the next project I'm planning on doing is to learn a bit about Python.
 
