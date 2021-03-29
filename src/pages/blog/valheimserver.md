@@ -50,7 +50,7 @@ First I needed to set up a ssh key pair for securely accessing my VM, I did this
 
 I then accessed the public key, via a cat view command
 
-> *cat ~/.ssh/id_rsa.pub*
+*       cat ~/.ssh/id_rsa.pub*
 
 Then I it copied, to add during the creation of the VM
 
