@@ -12,7 +12,9 @@ image_alt: lorem-ipsum
 image_position: right
 seo:
   title: 'Project: Setting up a Valheim Server on Linux'
-  description: The process of researching & setting up a static website on Azure
+  description: >-
+    Learning to work with Linux and setting up a Valheim server, all hosted on
+    Azure
   extra:
     - name: 'og:type'
       value: article
