@@ -94,11 +94,12 @@ I then removed the common.cfg file
 
 and replaced it with a copy of the default.cfg
 
-```
-   cp _default.cfg common.cfg
+   cp \_default.cfg common.cfg
+![](/images/edit%20config%201.png)
+Next I accessed the newly created common.cfg with the vim command
 
-```
 
     vim common.cfg
+
 
 and proceeded to edit the servers name and add a password for better security
