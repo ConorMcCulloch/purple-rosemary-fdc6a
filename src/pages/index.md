@@ -63,6 +63,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Cert 2.png
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
