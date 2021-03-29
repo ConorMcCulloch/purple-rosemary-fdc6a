@@ -1,5 +1,5 @@
 ---
-title: 'Project: '
+title: 'Project: Setting up a Valheim server '
 subtitle: The process of researching & setting up a static website on Azure
 date: '2021-03-05'
 categories:
