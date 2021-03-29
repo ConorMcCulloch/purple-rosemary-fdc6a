@@ -7,8 +7,7 @@ sections:
     background_color: secondary
     padding_top: none
     padding_bottom: none
-  - title: lorem-ipsum
-    features:
+  - features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
