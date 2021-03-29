@@ -40,7 +40,7 @@ seo:
         Learning to work with Linux and setting up a Valheim server, all hosted
         on Azure
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/valheim%20thumb.png
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
