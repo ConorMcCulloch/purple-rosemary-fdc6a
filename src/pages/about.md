@@ -13,7 +13,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/About Me 1.jpg
