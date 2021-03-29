@@ -78,7 +78,7 @@ Once it was deployed I accessed the VM via SSH, verifying with the key pair that
 
 ![](/images/Root%20access.png)
 
-Then I installed all of the depancies the server required to run.
+Then I installed all of the dependences the server required to run.
 
 ```
     sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python util-linux ca certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6 libsdl2-2.0-0:i386 steamcmd
@@ -121,9 +121,12 @@ I then removed the common.cfg file
 
 and replaced it with a copy of the default.cfg
 
-    cp _default.cfg common.cfg
+```
+cp _default.cfg common.cfg
 
-The reason I did this is because by default the common.cfg is an empty file
+```
+
+The reason I did this is because by default the common.cfg is an empty file, while \_deafult.cfg has all the necessary parameters for us to easily edit as you'll see in a moment. 
 
 ![](/images/edit%20config%201.png)
 Next I accessed the newly created common.cfg with the vim command
@@ -155,7 +158,7 @@ This is as simple as adding a new allow access inbound rule to the ports between
 
 ![](/images/security%20rule%202.png)
 
-After this I navigated to the IP settings for my VM and set the Ip to Static, this means that the VM IP will stay the same between shutdowns. This is important for me as this is the way I’d be accessing the server.
+After this I navigated to the IP settings for my VM and set the IP to Static, this means that the VM IP will stay the same between shutdowns. This is important for me as this is the way I’d be accessing the server.
 
 ![](/images/IP%20static.png)
 With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files.
