@@ -1,5 +1,5 @@
 ---
-title: 'Project: Setting up a Valheim server on Linux'
+title: 'Project: Setting up a Valheim Server on Linux'
 subtitle: The process of researching & setting up a static website on Azure
 date: '2021-03-05'
 categories:
