@@ -71,4 +71,15 @@ Then I installed all of the depancies the server required to run
 
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
-             adduser vhserver
+```
+         adduser vhserver
+
+```
+
+*               wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver*
+
+**![](/images/installed%20linuxgsm.png)
+
+Once this was done I used it to install the Valheim server components
+
+*./vhserver install*
