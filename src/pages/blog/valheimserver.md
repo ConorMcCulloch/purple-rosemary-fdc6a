@@ -83,4 +83,3 @@ Once that was complete I created a new user for the server, with a simpler name 
 Once this was done I used it to install the Valheim server components
 
         ./vhserver install
-       cd /home/vhserver/lgsm/config-lgsm/vhserver*
