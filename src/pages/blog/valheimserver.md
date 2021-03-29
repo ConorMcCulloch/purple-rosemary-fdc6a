@@ -62,7 +62,7 @@ Once it was deployed I accessed the VM via SSH, verifying with the key pair that
 
 ![](/images/Root%20access.png)
 
-Then I installed all of the depancies the server required to run
+Then I installed all of the depancies the server required to run.
 
 ```
     sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python util-linux ca certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6 libsdl2-2.0-0:i386 steamcmd
@@ -71,10 +71,12 @@ Then I installed all of the depancies the server required to run
 
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
-```
     adduser vhserver
+![](/images/new%20user.png)
 
-```
+
+I then signed into that new user and downloaded the server manager, I went with LinuxGSM, as it is a very popular platform with an active community.
+
 
         wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
 
@@ -94,12 +96,12 @@ I then removed the common.cfg file
 
 and replaced it with a copy of the default.cfg
 
-    cp \_default.cfg common.cfg
+        cp \_default.cfg common.cfg
 
 ![](/images/edit%20config%201.png)
 Next I accessed the newly created common.cfg with the vim command
 
-    vim common.cfg
+       vim common.cfg
 
 and proceeded to edit the servers name and add a password for better security
 
@@ -107,7 +109,7 @@ and proceeded to edit the servers name and add a password for better security
 
 I saved my changes and navigated back to the root and then booted up the server
 
-    ./vhserver start
+       ./vhserver start
 
 ![](/images/VH%20server%20start.png)
 
