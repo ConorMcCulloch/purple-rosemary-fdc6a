@@ -8,8 +8,7 @@ sections:
     padding_top: none
     padding_bottom: none
   - features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         actions: []
         image_alt: lorem-ipsum
         media_position: right
