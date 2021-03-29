@@ -1,6 +1,6 @@
 ---
 title: 'Project: Setting up a Valheim Server on Linux'
-date: '2021-03-05'
+date: '2021-03-29'
 categories:
   - src/data/categories/category-7vcuuz40z.json
   - src/data/categories/category-fngg8m6d9.json
