@@ -1,5 +1,5 @@
 ---
-title: 'Project: Setting up a Valheim Server on a Linux VM'
+title: 'Project: Setting up a Valheim Server on Linux'
 subtitle: >-
   Learning how to work with Linux & setting up a Valheim server all hosted on
   Azure
