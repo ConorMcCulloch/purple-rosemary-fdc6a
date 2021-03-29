@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Setting Up a Static Website on Azure
+      value: 'Project: Setting up a Valheim Server on Linux'
       keyName: property
     - name: 'og:description'
       value: The process of researching & setting up a static website on Azure
