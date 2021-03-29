@@ -46,13 +46,19 @@ For my first project I wanted to learn more about Virtual Machines and running s
 
 First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
 
-        ssh-keygen -m PEM -t rsa -b 4096
+```
+    ssh-keygen -m PEM -t rsa -b 4096
+
+```
 
 I then accessed the public key, via a cat view command
 
-        cat ~/.ssh/id_rsa.pub
+```
+    cat ~/.ssh/id_rsa.pub
 
-Then I it copied, to add during the creation of the VM
+```
+
+Then I it copied, to add during the creation of the VM.
 
 I then created a virtual machine through the Azure portal, I chose a Standard B2s (2 vcpus, 4 GiB memory), as this is the recommended size for a Valheim server. I didn't create any additional discs as the storage that comes with the VM is more than enough to host the files needed.
 
@@ -62,7 +68,7 @@ Once it was deployed I accessed the VM via SSH, verifying with the key pair that
 
 ![](/images/Root%20access.png)
 
-Then I installed all of the depancies the server required to run
+Then I installed all of the depancies the server required to run.
 
 ```
     sudo dpkg --add-architecture i386; sudo apt update; sudo apt install curl wget file tar bzip2 gzip unzip bsdmainutils python util-linux ca certificates binutils bc jq tmux netcat lib32gcc1 lib32stdc++6 libsdl2-2.0-0:i386 steamcmd
@@ -71,10 +77,11 @@ Then I installed all of the depancies the server required to run
 
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
-```
     adduser vhserver
 
-```
+![](/images/new%20user.png)
+
+I then signed into that new user and downloaded the server manager, I went with LinuxGSM, as it is a very popular platform with an active community.
 
         wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
 
@@ -82,36 +89,52 @@ Once that was complete I created a new user for the server, with a simpler name 
 
 Once this was done I used it to install the Valheim server components
 
-        ./vhserver install
+```
+    ./vhserver install
+
+
+```
 
 After the install I then had to configure the server before running it, this meant navigating to the config files
 
-       cd /home/vhserver/lgsm/config-lgsm/vhserver
+```
+   cd /home/vhserver/lgsm/config-lgsm/vhserver
+
+```
 
 I then removed the common.cfg file
 
-        rm common.cfg
+```
+    rm common.cfg
+
+```
 
 and replaced it with a copy of the default.cfg
 
+```
     cp \_default.cfg common.cfg
+
+```
 
 ![](/images/edit%20config%201.png)
 Next I accessed the newly created common.cfg with the vim command
 
-    vim common.cfg
+```
+   vim common.cfg
 
-and proceeded to edit the servers name and add a password for better security
+```
+
+and proceeded to edit the servers name and add a password for better security.
 
 ![](/images/edit%20config%202.png)
 
 I saved my changes and navigated back to the root and then booted up the server
 
-    ./vhserver start
+       ./vhserver start
 
 ![](/images/VH%20server%20start.png)
 
-I then ran a quick check to see if the server was up and running
+I then ran a quick check to see if the server was up and running.
 
     ./vhserver details
 
@@ -128,5 +151,4 @@ After this I navigated to the IP settings for my VM and set the Ip to Static, th
 ![](/images/IP%20static.png)
 With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files.
 
-![](/images/Valheim%20End.jpg)
-
+![](/images/Valheim%20End.jpg)![](https://raw.githubusercontent.com/ConorMcCulloch/purple-rosemary-fdc6a/master/static/images/installed%20linuxgsm%202.png)![](https://raw.githubusercontent.com/ConorMcCulloch/purple-rosemary-fdc6a/master/static/images/installed%20linuxgsm%202.png)
