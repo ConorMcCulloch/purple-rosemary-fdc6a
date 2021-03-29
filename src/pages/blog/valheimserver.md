@@ -52,7 +52,7 @@ I then accessed the public key, via a cat view command
 
         cat ~/.ssh/id_rsa.pub
 
-Then I it copied, to add during the creation of the VM
+Then I it copied, to add during the creation of the VM.
 
 I then created a virtual machine through the Azure portal, I chose a Standard B2s (2 vcpus, 4 GiB memory), as this is the recommended size for a Valheim server. I didn't create any additional discs as the storage that comes with the VM is more than enough to host the files needed.
 
@@ -72,11 +72,10 @@ Then I installed all of the depancies the server required to run.
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
     adduser vhserver
+
 ![](/images/new%20user.png)
 
-
 I then signed into that new user and downloaded the server manager, I went with LinuxGSM, as it is a very popular platform with an active community.
-
 
         wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
 
