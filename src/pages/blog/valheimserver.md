@@ -126,7 +126,7 @@ cp _default.cfg common.cfg
 
 ```
 
-The reason I did this is because by default the common.cfg is an empty file, while \_deafult.cfg has all the necessary parameters for us to easily edit as you'll see in a moment. 
+The reason I did this is because by default the common.cfg is an empty file, while \_default.cfg has all the necessary parameters for us to easily edit as you'll see in a moment.
 
 ![](/images/edit%20config%201.png)
 Next I accessed the newly created common.cfg with the vim command
