@@ -44,11 +44,9 @@ subtitle: >-
 ---
 For my first project I wanted to learn more about Virtual Machines and running servers on them in Azure. To do this I choose to set-up a Valheim server running on a Linux VM.
 
-
-
 First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
 
-> *ssh-keygen -m PEM -t rsa -b 4096*
+*ssh-keygen -m PEM -t rsa -b 4096*
 
 I then accessed the public key, via a cat view command
 
@@ -62,4 +60,4 @@ Once it was deployed I accessed the VM via SSH, verifying with the key pair that
 
 > *sudo passwd root*
 
-**![](/images/Root%20access.png)
+\*\*![](/images/Root%20access.png)
