@@ -1,6 +1,6 @@
 ---
 title: 'Project: Setting up a Valheim Server on Linux'
-subtitle: 'Learning '
+subtitle: 'Learning how to work with Linux '
 date: '2021-03-05'
 categories:
   - src/data/categories/category-7vcuuz40z.json
