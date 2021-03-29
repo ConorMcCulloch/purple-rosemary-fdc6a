@@ -129,4 +129,3 @@ After this I navigated to the IP settings for my VM and set the Ip to Static, th
 With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files.
 
 ![](/images/Valheim%20End.jpg)
-
