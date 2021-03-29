@@ -23,7 +23,9 @@ seo:
       value: 'Project: Setting up a Valheim Server on Linux'
       keyName: property
     - name: 'og:description'
-      value: The process of researching & setting up a static website on Azure
+      value: >-
+        Learning to work with Linux and setting up a Valheim server, all hosted
+        on Azure
       keyName: property
     - name: 'og:image'
       value: images/classic/post-1.png
