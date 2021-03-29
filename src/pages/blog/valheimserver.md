@@ -93,7 +93,6 @@ Once this was done I used it to install the Valheim server components
     ./vhserver install
 
 
-
 ```
 
 After the install I then had to configure the server before running it, this meant navigating to the config files
@@ -152,4 +151,4 @@ After this I navigated to the IP settings for my VM and set the Ip to Static, th
 ![](/images/IP%20static.png)
 With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files.
 
-![](/images/Valheim%20End.jpg)
+![](/images/Valheim%20End.jpg)![](https://raw.githubusercontent.com/ConorMcCulloch/purple-rosemary-fdc6a/master/static/images/installed%20linuxgsm%202.png)![](https://raw.githubusercontent.com/ConorMcCulloch/purple-rosemary-fdc6a/master/static/images/installed%20linuxgsm%202.png)
