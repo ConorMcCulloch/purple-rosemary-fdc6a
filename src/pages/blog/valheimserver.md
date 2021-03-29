@@ -121,7 +121,7 @@ I then removed the common.cfg file
 
 and replaced it with a copy of the default.cfg
 
-    cp \_default.cfg common.cfg
+    cp _default.cfg common.cfg
 
 The reason I did this is because by default the common.cfg is an empty file
 
