@@ -46,7 +46,7 @@ For my first project I wanted to learn more about Virtual Machines and running s
 
 First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
 
-*ssh-keygen -m PEM -t rsa -b 4096*
+###### *ssh-keygen -m PEM -t rsa -b 4096*
 
 I then accessed the public key, via a cat view command
 
