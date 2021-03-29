@@ -56,7 +56,6 @@ sections:
         content_align: left
         actions:
           - label: Working On!
-            url: lorem-ipsum
             style: primary
             has_icon: false
             icon: arrow-left
