@@ -36,7 +36,9 @@ seo:
     - name: 'twitter:title'
       value: Setting Up a Static Website on Azure
     - name: 'twitter:description'
-      value: The process of researching & setting up a static website on Azure
+      value: >-
+        Learning to work with Linux and setting up a Valheim server, all hosted
+        on Azure
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
