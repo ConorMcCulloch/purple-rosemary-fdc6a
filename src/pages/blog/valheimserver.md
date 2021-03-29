@@ -86,16 +86,12 @@ Once this was done I used it to install the Valheim server components
 
 After the install I then had to configure the server before running it, this meant navigating to the config files
 
-  cd /home/vhserver/lgsm/config-lgsm/vhserver
-
+       cd /home/vhserver/lgsm/config-lgsm/vhserver
 
 I then removed the common.cfg file
 
-
-rm common.cfg
-
+       rm common.cfg
 
 and replaced it with a copy of the default.cfg
 
-
-cp \_default.cfg common.cfg
+       cp \_default.cfg common.cfg
