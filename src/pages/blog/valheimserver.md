@@ -79,7 +79,7 @@ Then I installed all of the depancies the server required to run.
 
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
-    adduser vhserver
+        adduser vhserver
 
 ![](/images/new%20user.png)
 
@@ -100,7 +100,7 @@ Once this was done I used it to install the Valheim server components
 After the install I then had to configure the server before running it, this meant navigating to the config files
 
 ```
-   cd /home/vhserver/lgsm/config-lgsm/vhserver
+    cd /home/vhserver/lgsm/config-lgsm/vhserver
 
 ```
 
@@ -122,7 +122,7 @@ and replaced it with a copy of the default.cfg
 Next I accessed the newly created common.cfg with the vim command
 
 ```
-   vim common.cfg
+    vim common.cfg
 
 ```
 
@@ -132,13 +132,13 @@ and proceeded to edit the servers name and add a password for better security.
 
 I saved my changes and navigated back to the root and then booted up the server
 
-       ./vhserver start
+        ./vhserver start
 
 ![](/images/VH%20server%20start.png)
 
 I then ran a quick check to see if the server was up and running.
 
-    ./vhserver details
+        ./vhserver details
 
 ![](/images/VH%20server%20stats.png)
 
@@ -152,7 +152,5 @@ After this I navigated to the IP settings for my VM and set the Ip to Static, th
 
 ![](/images/IP%20static.png)
 With all of this done my server was now up and accessible, and my friends and I would be able to play on it whenever we wanted. I learned a decent amount from this project; such as how to create users in Linux, how to download files in Linux, and how to navigate and edit files.
-
-
 
 ![](/images/Valheim%20End.jpg)
