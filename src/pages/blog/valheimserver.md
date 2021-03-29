@@ -46,11 +46,11 @@ For my first project I wanted to learn more about Virtual Machines and running s
 
 First I needed to set up a ssh key pair for securely accessing my VM, I did this by opening up Cloud Shell and running the following command
 
-          ssh-keygen -m PEM -t rsa -b 4096
+        ssh-keygen -m PEM -t rsa -b 4096
 
 I then accessed the public key, via a cat view command
 
-          cat ~/.ssh/id_rsa.pub
+        cat ~/.ssh/id_rsa.pub
 
 Then I it copied, to add during the creation of the VM
 
@@ -72,14 +72,14 @@ Then I installed all of the depancies the server required to run
 Once that was complete I created a new user for the server, with a simpler name for quicker use and access.
 
 ```
-         adduser vhserver
+    adduser vhserver
 
 ```
 
-             wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
+        wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm.sh vhserver
 
 ![](/images/installed%20linuxgsm.png)
 
 Once this was done I used it to install the Valheim server components
 
-          ./vhserver install\*
+        ./vhserver install\*
