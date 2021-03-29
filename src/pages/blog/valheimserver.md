@@ -58,7 +58,7 @@ I then created a virtual machine through the Azure portal, I chose a Standard B2
 
 Once it was deployed I accessed the VM via SSH, verifying with the key pair that I previously set-up. The first thing I did was create root access, this is necessary for completing a lot of tasks within the environment, and in our case it's needed to create a new user and edit some files.
 
-       sudo passwd root
+        sudo passwd root
 
 ![](/images/Root%20access.png)
 
