@@ -114,7 +114,7 @@ I then removed the common.cfg file
 and replaced it with a copy of the default.cfg
 
 ```
-    cp \_default.cfg common.cfg
+    cp _default.cfg common.cfg
 
 ```
 
