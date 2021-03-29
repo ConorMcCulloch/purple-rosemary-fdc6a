@@ -28,7 +28,7 @@ seo:
         on Azure
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/valheim%20thumb.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
