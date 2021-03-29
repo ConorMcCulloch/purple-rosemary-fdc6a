@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Setting Up a Static Website on Azure
+      value: 'Project: Setting up a Valheim Server on Linux'
     - name: 'twitter:description'
       value: >-
         Learning to work with Linux and setting up a Valheim server, all hosted
