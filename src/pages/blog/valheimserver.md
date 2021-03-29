@@ -4,6 +4,7 @@ date: '2021-03-05'
 categories:
   - src/data/categories/category-7vcuuz40z.json
   - src/data/categories/category-fngg8m6d9.json
+  - src/data/categories/category-t3lc9bhef.json
 tags: []
 excerpt: The process of researching & setting up a static website on Azure
 thumb_image_alt: lorem-ipsum
