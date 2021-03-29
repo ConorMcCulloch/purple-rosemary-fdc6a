@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
-thumb_image: images/valheim thumb.png
+thumb_image: images/classic/post-5.png
 image: images/valheim thumb.png
 subtitle: >-
   Learning to work with Linux and setting up a Valheim server, all hosted on
