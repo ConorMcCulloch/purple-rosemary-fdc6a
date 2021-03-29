@@ -39,7 +39,7 @@ author: src/data/team/dianne-ameter.yaml
 thumb_image: images/classic/post-2.png
 image: images/classic/post-2.png
 subtitle: >-
-  Learning to work with Linux andsetting up a Valheim server all hosted on
+  Learning to work with Linux and setting up a Valheim server all hosted on
   Azure 
 ---
 Want to learn how I set this whole static site up? Well in this post I’m going to lay out how I built it, the choices I made, and the lessons I learned along the way.
