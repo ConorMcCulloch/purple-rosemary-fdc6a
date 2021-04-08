@@ -1,8 +1,7 @@
 ---
 title: Home
 sections:
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
