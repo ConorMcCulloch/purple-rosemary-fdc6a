@@ -7,6 +7,7 @@ sections:
     background_color: secondary
     padding_top: none
     padding_bottom: none
+    image: images/Traning In azure.gif
   - features:
       - actions: []
         image_alt: lorem-ipsum
