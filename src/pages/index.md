@@ -15,6 +15,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: images/ezgif.com-gif-maker.gif
   - type: hero_section
     actions:
       - label: About Me
