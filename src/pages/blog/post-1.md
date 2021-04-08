@@ -75,7 +75,7 @@ From the moment I started using Stackbit I knew this was the platform for me, wi
 
 ![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Linking.png?raw=true)
 
-So once I had my CMS chosen, I went about setting up Azure Static Web Apps to host the website. Azure Static Web Apps is currently in preview but I still chose to use it because it fitted my needs perfectly; it's simple and easy to set up, you can map custom domains to the web apps hosted by it, and it current has no monthly cost associated with it (although this may change once it comes out of preview). 
+So once I had my CMS chosen, I went about setting up Azure Static Web Apps to host the website. Azure Static Web Apps is currently in preview but I still chose to use it because it fitted my needs perfectly; it's simple and easy to set up, you can map custom domains to the web apps hosted by it, and it current has no monthly cost associated with it (although this may change once it comes out of preview).
 
 ![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Domain.png?raw=true)
 
