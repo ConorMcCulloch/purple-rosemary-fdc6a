@@ -37,7 +37,7 @@ seo:
 template: post
 author: src/data/team/dianne-ameter.yaml
 thumb_image: images/ExJCf-TWEAAs7L2.jpg
-image: images/classic/post-2.png
+image: images/ExJCf-TWEAAs7L2.jpg
 subtitle: My first foray into learning another language
 ---
 Want to learn how I set this whole static site up? Well in this post I’m going to lay out how I built it, the choices I made, and the lessons I learned along the way.
