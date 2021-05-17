@@ -6,7 +6,6 @@ categories:
   - src/data/categories/category-qn2770khu.json
 tags: []
 excerpt: My first foray into learning another language
-image_alt: lorem-ipsum
 image_position: right
 seo:
   title: Setting Up a Static Website on Azure
