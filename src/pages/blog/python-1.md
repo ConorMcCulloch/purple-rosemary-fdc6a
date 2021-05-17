@@ -1,6 +1,6 @@
 ---
 title: My Introduction to Python
-date: '2021-05-05'
+date: '2021-05-17'
 categories:
   - src/data/categories/category-t3lc9bhef.json
   - src/data/categories/category-qn2770khu.json
