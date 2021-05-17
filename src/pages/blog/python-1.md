@@ -53,8 +53,6 @@ Lastly,  was the growing popularity of the language. Python has been exploding 
 
 All of these reasons were why I settled on Python rather than Java or C#.
 
-
-
 ## **What I’ve Learned so Far**
 
 In order to learn Python I’ve been taking a course through Udemy called “2021 Complete Python Bootcamp From Zero to Hero in Python”, and as of writing this have just completed my first Milestone project, but more on that later. The course has been good at teaching me a strong understanding of Python, although study of the concepts is key if you want to really develop it as a skill.
