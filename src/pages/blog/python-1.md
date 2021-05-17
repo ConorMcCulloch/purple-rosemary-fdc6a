@@ -1,5 +1,5 @@
 ---
-title: Setting Up a Static Website on Azure
+title: My Introduction to Python
 subtitle: The process of researching & setting up a static website on Azure
 date: '2021-03-05'
 categories:
