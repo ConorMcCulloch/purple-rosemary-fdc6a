@@ -8,7 +8,7 @@ tags: []
 excerpt: My first foray into learning another language
 image_position: right
 seo:
-  title: Setting Up a Static Website on Azure
+  title: My Introduction to Python
   description: The process of researching & setting up a static website on Azure
   extra:
     - name: 'og:type'
