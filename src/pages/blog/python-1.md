@@ -39,50 +39,50 @@ thumb_image: images/ExJCf-TWEAAs7L2.jpg
 image: images/ExJCf-TWEAAs7L2.jpg
 subtitle: My first foray into learning another language
 ---
-Want to learn how I set this whole static site up? Well in this post I’m going to lay out how I built it, the choices I made, and the lessons I learned along the way.
+They say learning a new language is one of the most valuable skills you can learn, and while some may choose French or Spanish, I went with something a little different. Sit back as I go through my introduction to Python.
 
-When I first decided I wanted a website to document my progress, my first thought was to build a WordPress site and host it in Azure. Luckily there's a WordPress service right on the Azure Marketplace, I thought that it would be a simple and easy process to set up, and it was...at first. WordPress is a powerful platform and can create some fantastic looking sites, but on Azure it costs over £30 a month to host it. This is due to the fact that you need to host not just your App Service Plan but a SQL Database as well. At those rates I’d be better off going to an all inclusive platform such as Squarespace, but I was content to build my site on Azure, to learn the tools and services it offered, and so I looked for another option.
+## **Why Python?**
 
-![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/App%20Service.png?raw=true)![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/SQL.png?raw=true)
+I picked Python over other programming languages for a few reasons, first off was readability of it. Not only does this help you understand others' code easily but it also makes understanding what you’ve written, and importantly, what you're learning much easier. Being able to look back at your code and quickly understand the logic of it all makes the entire process of learning a coding language much less daunting.
 
-This is when I learned about static sites, but what is a static site exactly well; 
+Second up was the versatility of Python. Python has a wide range of applications, from machine learning and data analysis to web development and programming applications. This gives me a wide scope of what I can create with Python, it also means that wherever I am in my career it can have its uses.
 
-> “A static site is a page that is delivered to the user's web browser exactly as stored”.
+Lastly,  was the growing popularity of the language. Python has been exploding in popularity over the past few years compared to other languages, this makes it not only an attractive skill to have but it also means I have access to a huge amount of current documentation and user-based problem solving. This is especially useful for someone like me who is starting out, knowing that it is very likely someone has run into the same issue as me, and that there are already up-to-date answers for those problems.
 
-What this means is that everyone who visits the site see’s the same thing, this is in contrast to a dynamic site which can change what it displays based on various conditions from the visitor. For example a social media website like twitter, is a dynamic site that changes what it displays depending on the account that's logged in.
+![](https://lh3.googleusercontent.com/B2XnOMo5iPZBhmailbnBSQ9HGJcXcd2\_yZ_quT6dQQBAD0iXiYax_kUY0Di0JJbUUUHhNQ4jrkahvPR0209sfn52vsXTmRChewUNMoceClSQ7ePNk1P_wB6-O8\_T2FHnt2cMFVu-)
 
-There are many advantages to a static site, such as improved security, performance, but most important to me is that they are incredibly cheap to run. This is due to the fact that no real compute power is needed, so I no longer needed to pay for an App Service Plan or Database. Although there are also drawbacks to static sites, such as the inability to quickly change the design and layout of the site. Unlike a dynamic site editor where a new “theme” can be put over the top of the pre-existing content, static sites bake in those design elements with the content itself.
+All of these reasons were why I settled on Python rather than Java or C#.
 
-As I looked into static sites I found that there were **many** different platforms and frameworks used to build them, all offering their own advantages and disadvantages. Static sites can be built and edited entirely through a command console, but I was interested in using a content management system (CMS) to build and maintain mine, as it would give me a suite of tools that I wouldn't have otherwise. I also wanted something that hosted it’s files on GitHub, as I planned to use Azure’s Static Web Apps service, (which I’ll talk more about later).
 
-I spent a week testing different platforms to find the right one for me, these are my personal findings;
 
-#### **Forestry**
+## **What I’ve Learned so Far**
 
-Forestry was the first platform I tried, and I was initially very impressed by the flashy templates they offered, but unfortunately as soon as I tried to make the changes to the templates, I ran into some problems. Changing site elements was awkward and unclear, and varied wildly from template to template, with some seemingly impossible to edit no matter how much I changed. One of the biggest reasons why everything felt so awkward within Forestry is because you are unable to directly edit the web pages, having to make your edits to the ever changing file structure format, publishing it and then seeing the changes live. Forestry does have a site preview engine but I found it slow and unresponsive.
+In order to learn Python I’ve been taking a course through Udemy called “2021 Complete Python Bootcamp From Zero to Hero in Python”, and as of writing this have just completed my first Milestone project, but more on that later. The course has been good at teaching me a strong understanding of Python, although study of the concepts is key if you want to really develop it as a skill.
 
-#### **Ghost**
+I’m feeling good about my current understanding and skill level with Python and this was helped greatly by the time I spent working on the first Milestone Project of the course.
 
-I only tried out Ghost for a brief moment as it’s a paid service with a 14-day free trial. The sites looked nice but it was more of an all-inclusive service, offering hosting and support which I didn't need.
+## **Tic-Tac-Toe Project**
 
-#### **Siteleaf & Publii**
+As you may have guessed the first Milestone Project in this course was to  develop a Tic-Tac-Toe game, using everything I’d learned so far and more. I say ‘and more’ because the game did require me to do some learning outside of the course, this is done so you can learn how and where to find information about concepts in the wild.
 
-Both of these platforms are fairly similar to one and another with the services they offer, and the style of in-direct site editing they allow. I think either could have been a great choice for me, and from the small amount of time I put into them, their management tools seem more comprehensive and unified than that of Forestry, but they were just beat out by the next, and final platform I tried.
+When I first started the project I was nervous that I wouldn't be able to apply what I had learned and would become stuck rather quickly, but this didn't end up being the case. Once I got started all of what I had learned began to come back to me and I was able to quickly come up with answers to the problems that lay ahead of me. 
 
-#### **Stackbit**
+I did bump into a couple problems that took some time to resolve, such as my ‘Win Condition’ Function which was showing a win after only 1 or 2 markers had been played. The issue was that I had an equality operator (==) at the end of a list of indexes thinking it would encapsulate all of them, when it actually was only checking against the final index in the list. The solution was to simply put an equality operator after each index point in the list. This was a good lesson for me to realise, in terms of, what I thought I was telling my code and what my code was actually understanding.
 
-![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/stackbit-logo.png?raw=true)
+Something that I’m really proud of with this project is how fault tolerant I was able to make the game. The solution provided by the course has a number of faults, primarily when asking for user input, where if the user inputs something other than the game asked for, the game breaks. I built my solution, using the knowledge that I had learned, to make sure that user input couldn't break my game. A particular Function that shows this is my ‘player_choice’ Function where I ask the user for a number between 1-9 and check to make sure:
 
-From the moment I started using Stackbit I knew this was the platform for me, with the biggest factor being the ability to directly edit pages and see them change in real time, this made building and editing the site an absolute breeze. Building pages using premade sections is quick and easy, while still allowing for enough customisation, so that no two websites have to look alike. Another great feature of Stackbit is that it automatically creates a preview branch of your site, where you make all of your edits, before being pushed to the master branch.  It also has great metadata tagging and a feature that allows you to pull up the code of specific elements, which can help you learn more about what your website actually is built on.
+1.  The inputs a number
 
-![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Linking.png?raw=true)
+2.  The input is within the range asked for
 
-So once I had my CMS chosen, I went about setting up Azure Static Web Apps to host the website. Azure Static Web Apps is currently in preview but I still chose to use it because it fitted my needs perfectly; it's simple and easy to set up, you can map custom domains to the web apps hosted by it, and it current has no monthly cost associated with it (although this may change once it comes out of preview).
+3.  The input has not already been selected
 
-![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/Domain.png?raw=true)
+![](/images/Screenshot%202021-05-17%20112049.png)
 
-So with my site now built and hosted on the internet, I needed to assign a custom domain to it, to make it my own and because I didn't think the auto-generated one, “*zealous-beach-001e9a410.azurestaticapps.net*” would fit on a business card 😂. For this process I decided to keep it in the family and use Azure App Service domain to purchase and manage my domain. Settling on Cloudmcculloch.com fairly quickly, I purchased it and went about mapping it to my site. This involved mapping a CNAME record of my purchased domain to the one auto generated by Azure Static Web Apps, which was as simple as adding a record to the DNS of my domain.
+![](/images/Screenshot%202021-05-17%20112120.png)
 
-![](https://github.com/ConorMcCulloch/purple-rosemary-fdc6a/blob/preview/static/images/DNS.png?raw=true)
+*The two functions that make up the 'player_choice' function*
 
-And that wraps up my journey of creating my static website! I learned a lot in the process and hopefully some of my mistakes and research can help you, if you ever decided to create one yourself.
+**
+
+So far my journey through Python has been an enjoyable one, with challenges and a few setbacks, but all of those have helped me gain a better understanding of the language. I plan to continue my learning with this course with the hopes to build something completely of my own by the end of it.
