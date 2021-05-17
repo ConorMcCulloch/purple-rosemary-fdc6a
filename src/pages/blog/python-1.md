@@ -9,7 +9,7 @@ excerpt: My first foray into learning another language
 image_position: right
 seo:
   title: My Introduction to Python
-  description: The process of researching & setting up a static website on Azure
+  description: My first foray into learning another language
   extra:
     - name: 'og:type'
       value: article
