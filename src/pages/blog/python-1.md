@@ -79,7 +79,7 @@ Something that I’m really proud of with this project is how fault tolerant I w
 
 ![](/images/Screenshot%202021-05-17%20112120.png)
 
-*The two functions that make up the 'player_choice' function*
+*Above, The two functions that make up 'player_choice'.*
 
 **
 
