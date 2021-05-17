@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Setting Up a Static Website on Azure
+      value: My Introduction to Python
     - name: 'twitter:description'
       value: The process of researching & setting up a static website on Azure
     - name: 'twitter:image'
