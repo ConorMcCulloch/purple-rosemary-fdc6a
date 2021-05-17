@@ -6,7 +6,6 @@ categories:
   - src/data/categories/category-qn2770khu.json
 tags: []
 excerpt: My first foray into learning another language
-thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
 seo:
