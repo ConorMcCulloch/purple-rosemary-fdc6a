@@ -1,6 +1,6 @@
 ---
 title: My Introduction to Python
-subtitle: The beginnings of my journal into learning Python
+subtitle: The beginning of my journey learning Python
 date: '2021-03-05'
 categories:
   - src/data/categories/category-7vcuuz40z.json
