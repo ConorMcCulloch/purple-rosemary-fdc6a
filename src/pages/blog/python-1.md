@@ -18,7 +18,7 @@ seo:
       value: My Introduction to Python
       keyName: property
     - name: 'og:description'
-      value: The process of researching & setting up a static website on Azure
+      value: My first foray into learning another language
       keyName: property
     - name: 'og:image'
       value: /images/ExJCf-TWEAAs7L2.jpg
