@@ -79,8 +79,6 @@ Something that I’m really proud of with this project is how fault tolerant I w
 
 ![](/images/Screenshot%202021-05-17%20112120.png)
 
-*Above, The two functions that make up 'player_choice'.*
-
-
+###### *Above, The two functions that make up 'player_choice'.*
 
 So far my journey through Python has been an enjoyable one, with challenges and a few setbacks, but all of those have helped me gain a better understanding of the language. I plan to continue my learning with this course with the hopes to build something completely of my own by the end of it.
