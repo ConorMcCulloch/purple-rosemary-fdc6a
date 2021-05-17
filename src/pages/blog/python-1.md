@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: My Introduction to Python
     - name: 'twitter:description'
-      value: The process of researching & setting up a static website on Azure
+      value: My first foray into learning another language
     - name: 'twitter:image'
       value: /images/ExJCf-TWEAAs7L2.jpg
       relativeUrl: true
