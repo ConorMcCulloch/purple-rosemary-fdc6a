@@ -21,7 +21,7 @@ seo:
       value: The process of researching & setting up a static website on Azure
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/ExJCf-TWEAAs7L2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
