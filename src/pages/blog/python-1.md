@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Setting Up a Static Website on Azure
+      value: My Introduction to Python
       keyName: property
     - name: 'og:description'
       value: The process of researching & setting up a static website on Azure
