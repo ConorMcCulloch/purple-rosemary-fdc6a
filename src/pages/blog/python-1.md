@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: The process of researching & setting up a static website on Azure
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/ExJCf-TWEAAs7L2.jpg
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
