@@ -5,7 +5,7 @@ categories:
   - src/data/categories/category-t3lc9bhef.json
   - src/data/categories/category-qn2770khu.json
 tags: []
-excerpt: The process of researching & setting up a static website on Azure
+excerpt: My first foray into learning another language
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: right
