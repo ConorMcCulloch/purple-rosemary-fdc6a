@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 template: post
 author: src/data/team/dianne-ameter.yaml
-thumb_image: images/classic/post-2.png
+thumb_image: images/ExJCf-TWEAAs7L2.jpg
 image: images/classic/post-2.png
 subtitle: My first foray into learning another language
 ---
