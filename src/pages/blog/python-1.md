@@ -1,6 +1,6 @@
 ---
 title: My Introduction to Python
-subtitle: And why I picked the snake over the coffee pot
+subtitle: And Why I Picked The Snake Over The
 date: '2021-03-05'
 categories:
   - src/data/categories/category-7vcuuz40z.json
