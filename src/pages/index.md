@@ -55,7 +55,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Achieved: '02/03/2023'
+          - label: 'Achieved: 02/03/2023'
             style: primary
             has_icon: false
             icon: arrow-left
