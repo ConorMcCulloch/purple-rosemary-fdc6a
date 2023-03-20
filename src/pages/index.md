@@ -55,7 +55,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Working On!
+          - label: Achieved: 02/03/2023
             style: primary
             has_icon: false
             icon: arrow-left
@@ -63,6 +63,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            url: >-
+              https://www.credly.com/badges/9058f626-8085-4120-bab5-b0107a6ee4f2/public_url
         actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
